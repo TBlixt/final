@@ -1,0 +1,49 @@
+header {
+  text-align: center;
+  background: url("https://cdn.funcheap.com/wp-content/uploads/2012/02/MidnightMysteryBatteryGGB.jpg");
+  background-size: cover;
+  color: white;
+}
+a {
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  color: black;
+  font:
+}
+img {
+  margin: 40px 0px 0px 0px;
+  border: 7px solid black;
+  border-radius: 20px;
+}
+ul {
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.5);
+}
+li {
+  display: inline;
+  padding: 0px 30px 0px 10px;
+
+}
+article {
+  max-width: inherit;
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+@media (max-width: 500px) {
+  h1{
+    font-size: 40px;
+  }
+  li {
+    display: block;
+    padding: 5px;
+  }
+body {
+  background-color: #93B874;
+}
+button {
+  color: blue;
+}
